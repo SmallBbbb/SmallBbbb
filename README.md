@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SmallBbbb
-- 🌱 Currently learning Semi-supervised Machine Learning 
+- 🌱 Research: Multimodal Learning !
 - 💞️ Collaborate Welcome!
 - 📫 Email: zhenglize@njust.edu.cn
 - 😄 bilibili: Small_B https://space.bilibili.com/32212180
